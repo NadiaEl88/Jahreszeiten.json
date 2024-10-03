@@ -1,0 +1,10 @@
+{
+    "Jahreszeiten": ["Sommer", "Herbst", "Winter", "Fruehling"],
+    "Eigenschaften": {
+        "Sommer": "warm",
+        "Herbst": "frisch",
+        "Winter": "sehr kalt",
+        "Fruehling": "kalt"
+    },
+    "Anzahl_Jahreszeiten": 4
+}
